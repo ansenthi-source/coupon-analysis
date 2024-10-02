@@ -27,12 +27,12 @@ The dataset was filtered to include only bar-related coupons. Key findings inclu
 
 4. **Bar Visit Frequency**:  
    Customers who visit bars more than 3 times per month had a **significantly higher acceptance rate** for bar coupons compared to those who visit bars less frequently.
-   **Acceptance Based on Bar Visit Frequency**
+   **Acceptance Based on Bar Visit Frequency**:
 A comparison of acceptance rates was performed between customers who visit bars 3 or fewer times a month versus those who visit more often, with the latter showing a higher acceptance rate.
 
 6. **Drivers Over 25 and Frequent Bar-Goers**:  
    Drivers who are over the age of 25 and frequently visit bars are **56.74%** likely to accept bar-related coupons, indicating a higher acceptance rate in this demographic.
-   **Acceptance for Drivers Over 25 Who Visit Bars Frequently**
+   **Acceptance for Drivers Over 25 Who Visit Bars Frequently**:
 A specific analysis was conducted for drivers over the age of 25 who visit bars frequently, yielding an acceptance rate of 56.74%.
 
 
