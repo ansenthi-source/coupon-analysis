@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# coding: utf-8
 
 # # Coupon Acceptance Analysis
 # This project analyzes customer behavior in response to driving coupons based on several factors like destination, passenger type, time, weather, and coupon type. Using visualizations and probability distributions, we explore what influences a customer's decision to accept a coupon.
